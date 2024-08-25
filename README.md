@@ -1,8 +1,7 @@
 ## Tortoise TTS-Geneface++-FastSpeech2HS
 
-- Used tortoise tts for generating english audio which I then downloaded and passed to geneface++ which performed the lip sync to the face.
-- Same process for hindi text but using fastspeech2 HS tts for hindi language.
-- I used theresa may face for generating the video sync on both videos.
+- I used Tortoise TTS to generate English audio, which I then downloaded and processed with GeneFace++ for lip-syncing to a face.
+- I followed the same process for Hindi text, using FastSpeech2 HS TTS for Hindi audio. In both cases, I used Theresa May's face for the lip-syncing in the generated videos.
 - All codes were executed in ipynb files.
 
 ## output
